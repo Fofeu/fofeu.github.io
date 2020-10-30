@@ -4,9 +4,11 @@ title: MtG Format
 permalink: /mtg-format/
 ---
 
-Rules =====
+Rules
+=====
 
-Deck construction rules -----------------------
+Deck construction rules
+-----------------------
 1. Players choose a legendary creature as the commander for their
    deck.
 2. A card’s colour identity is its color plus the colour of any mana
@@ -33,7 +35,8 @@ Deck construction rules -----------------------
    limits. A deck list main not contain cards totaling a higher point
    count thant the choosen point limit.
 
-Play Rules ----------
+Play Rules
+----------
 1. Players begin the game with 40 life.
 2. Commanders begin the game in the Command Zone. While a commander is
    in the command zone, it may be cast, subject to the normal timing
@@ -59,12 +62,17 @@ Play Rules ----------
 7. Abilities which bring card(s) you own from outside the game into
    the game may only bring them from the sideboard.
 
-Banned cards ============ The following cards are banned.
+
+Banned cards
+============
+
+The following cards are banned.
 
 * All cards that refer to the ante mechanic
 * All cards that Wizards has removed from constructed formats
 
-Points List ===========
+Points List
+===========
 
 Certain cards are not banned but assigned a point limit instead. This
 restricts their presence in the format without directly banning them.
