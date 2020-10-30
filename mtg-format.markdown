@@ -69,6 +69,7 @@ Banned cards
 The following cards are banned.
 
 * All cards that refer to the ante mechanic
+* Dexterity cards
 * All cards that Wizards has removed from constructed formats
 
 Points List
