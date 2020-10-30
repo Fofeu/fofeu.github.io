@@ -77,6 +77,8 @@ Points List
 Certain cards are not banned but assigned a point limit instead. This
 restricts their presence in the format without directly banning them.
 
+(list is just an example and copy-pasted from Australian Highlander)
+
 |     4 Points     |     3 Points    | 2 Points | 1 Points |
 | Ancestral Recall |  Demonic Tutor  | Channel | Balance|
 |    Black Lotus   |  Imperial Seal  | Dig Through Time |Birthing Pod|
